@@ -60,7 +60,6 @@ because one misplaced space can turn a good day into a **resume-updating day** �
 ---
 
 > _“High availability isn’t a feature — it’s a discipline.”_
-> “Focused on reliability, automation, and continuous improvement.”
 
 
 
