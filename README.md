@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Brijendra Pratap Singh
 
-🚀 **Linux Server Administrator | DevOps Enthusiast | Founder - InfraNex Solutions & The Brij Tech**
+🚀 **Linux Server Administrator | Founder - Webalin & WebOps Academy  | DevOps Enthusiast**
 
 ---
 
 ### 🌐 About Me
-I’m a passionate **IT professional** with 5+ years of experience in **Linux Server Administration**, **Cloud Infrastructure**, and **DevOps Automation**.  
-Currently, I’m building **InfraNex Solutions**, an IT service company helping businesses with **server setups, network infrastructure, cloud solutions, web & app development, and digital transformation.**
+I’m a passionate **IT professional** with 4+ years of experience in **Linux Server Administration**, **Cloud Infrastructure**, and **DevOps Automation**.  
+Currently, I’m building **Webalin**, an IT service company helping businesses with **server setups, network infrastructure, cloud solutions, web & app development, and digital transformation.**
 
 I believe in **learning by doing**, **sharing knowledge**, and using **automation** to simplify complex technical workflows.
 
