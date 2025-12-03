@@ -52,6 +52,14 @@ Jhunjhunwala PG College, Ayodhya, U.P. | 2017 – 2020
 
 ---
 
+## 🎉 Fun Fact
+
+Even after managing **80+ Linux servers**, I still feel nervous before running `rm -rf` —  
+because one misplaced space can turn a good day into a **resume-updating day** 😅
+
+---
+
+> _“High availability isn’t a feature — it’s a discipline.”_
 > “Focused on reliability, automation, and continuous improvement.”
 
 
