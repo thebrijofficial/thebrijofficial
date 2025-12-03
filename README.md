@@ -1,5 +1,66 @@
 # 👋 Hi, I'm Brijendra Pratap Singh
 
+🚀 **Linux Server Administrator | Founder - Webalin & WebOps Academy<!--  | DevOps Enthusiast-->**
+
+I’m a **Linux Infrastructure & System Reliability Engineer** with 3+ years of hands-on experience managing and securing **80+ on-premises Linux servers**.  
+I specialize in **system hardening, LAMP/LEMP stack deployment, MySQL high availability, load balancing, and disaster recovery**.
+
+---
+
+### 💻 Technical Skills
+- **Operating Systems:** RHEL, CentOS, Ubuntu  
+- **Web Servers:** Apache, Nginx, HAProxy  
+- **Database:** MySQL (Replication, Backups, Query Tuning)  
+- **Virtualization:** VMware ESXi, KVM  
+- **Networking & Security:** VLANs, VPN, Firewall, SSL/TLS  
+- **Monitoring:** Grafana, Linux System Tools (top, sar, vmstat, iostat)  
+- **Automation:** Bash Scripting, Cron Jobs  
+- **Version Control:** Git  
+- **Backup & Recovery:** Rsync, Veeam, Snapshot Restoration  
+
+---
+
+### 🏢 Experience
+**Linux Server Administrator** — *Jaisteel Facilitation Pvt. Ltd.*  
+📍 NSP, Delhi | 🗓️ May 2022 – Present  
+- Manage 80+ Linux servers ensuring uptime, security, and performance  
+- Implemented HAProxy load balancing for high availability  
+- Configured Grafana dashboards for proactive system monitoring  
+- Designed rsync + Veeam-based backup and disaster recovery pipelines  
+- Handled complete server lifecycle: provisioning, tuning, patching, and troubleshooting  
+
+---
+
+### 🧩 Notable Projects
+- **Load Balanced Web Hosting Environment** – Apache + Nginx with HAProxy for failover and redundancy  
+- **MySQL HA Setup** – Master-slave replication for data reliability  
+- **On-Prem Monitoring Stack** – Grafana dashboards for performance insights  
+- **Automated Backup Pipeline** – Rsync + Cron automation with checksum verification  
+
+---
+
+### 🎓 Education
+**Bachelor of Commerce (B.Com)**  
+Jhunjhunwala PG College, Ayodhya, U.P. | 2017 – 2020  
+
+---
+
+### 🌐 Connect With Me
+📧 **Email:** thebrijpsingh@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/thebrij](https://www.linkedin.com/in/thebrij)  
+💻 **GitHub:** [github.com/hithebrij](https://github.com/hithebrij)
+
+---
+
+> “Focused on reliability, automation, and continuous improvement.”
+
+
+
+
+
+
+<!-- # 👋 Hi, I'm Brijendra Pratap Singh
+
 🚀 **Linux Server Administrator | Founder - Webalin & WebOps Academy  | DevOps Enthusiast**
 
 ---
@@ -68,3 +129,4 @@ I believe in **learning by doing**, **sharing knowledge**, and using **automatio
 
 > _“Automate. Simplify. Scale. That’s my mantra for modern IT.”_  
 > — Brijendra Pratap Singh
+-->
