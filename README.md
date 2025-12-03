@@ -46,9 +46,9 @@ Jhunjhunwala PG College, Ayodhya, U.P. | 2017 – 2020
 ---
 
 ### 🌐 Connect With Me
-📧 **Email:** thebrijpsingh@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/thebrij](https://www.linkedin.com/in/thebrij)  
-💻 **GitHub:** [github.com/hithebrij](https://github.com/hithebrij)
+📧 **Email:** thebrijofficial@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/thebrij](https://www.linkedin.com/in/thebrijofficial)  
+💻 **GitHub:** [github.com/hithebrij](https://github.com/hithebrijofficial)
 
 ---
 
